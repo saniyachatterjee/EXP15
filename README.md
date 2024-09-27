@@ -126,14 +126,8 @@ int main() {
 ```
   
 
-![Screenshot 2024-09-27 120403](https://github.com/user-attachments/assets/4fca4132-671c-4a22-a4c3-0a052ce495db)
-
-
 
 o/p:
-
-![image](https://github.com/user-attachments/assets/72f20b19-40fa-4cef-bf12-28f4526080f3)
-
-
+![Screenshot 2024-09-27 120403](https://github.com/user-attachments/assets/4fca4132-671c-4a22-a4c3-0a052ce495db)
 # Conclusion
 The above codes show how recursion can effectively reverse strings and digits, compute factorials and sums, and improve code readability. They demonstrate how elegant and useful recursion is as a programming tool.
