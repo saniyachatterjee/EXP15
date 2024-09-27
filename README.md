@@ -47,7 +47,7 @@ int main(){
 
 o/p:
 
-![image](https://github.com/user-attachments/assets/7a1567d6-696e-4bbd-bb8c-842adff0827f)
+![Screenshot 2024-09-27 120006](https://github.com/user-attachments/assets/48c6420c-e699-4133-8d46-4a19d36cef30)
 
 2. Sum of numbers 1 to n
 ```
@@ -73,7 +73,7 @@ return 0;
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/4b68df1b-f50d-4d36-8781-cec30a47ec79)
+![Screenshot 2024-09-27 120041](https://github.com/user-attachments/assets/11da1efd-54e3-4f09-938b-961484ad16c9)
 
 3. Reversing a string
 ```
@@ -98,8 +98,9 @@ int main(){
 ```
 
 o/p:
+**
 
-![image](https://github.com/user-attachments/assets/50298ce3-04d7-4f4c-9182-d2fb59251395)
+![Screenshot 2024-09-27 120156](https://github.com/user-attachments/assets/fd970fdf-f693-4a38-82e3-52257779fc98)
 
 
 4. Reversing a number
@@ -124,7 +125,8 @@ int main() {
 }
 ```
   
-![image](https://github.com/user-attachments/assets/0afe7602-336c-4017-9367-7ef8dd13ce7c)
+
+![Screenshot 2024-09-27 120403](https://github.com/user-attachments/assets/4fca4132-671c-4a22-a4c3-0a052ce495db)
 
 ```
 
