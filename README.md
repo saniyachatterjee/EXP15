@@ -128,7 +128,7 @@ int main() {
 
 ![Screenshot 2024-09-27 120403](https://github.com/user-attachments/assets/4fca4132-671c-4a22-a4c3-0a052ce495db)
 
-```
+
 
 o/p:
 
