@@ -1,7 +1,3 @@
-//Saniya Chatterjee
-//PRN 23070123113
-//EnTC B2
-
 #include <iostream>
 using namespace std;
 
